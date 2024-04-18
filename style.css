@@ -65,6 +65,7 @@
   }
   img:hover {
     opacity: 0.5;
+    box-shadow: 10px 5px 5px rgb(43, 43, 43);
   }
   .carre-contenu {
     border-right: 1px solid #8e86b5;
